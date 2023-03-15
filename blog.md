@@ -7,11 +7,13 @@ Solves business processes by increasing delegation and responsibilities
 Removes the pressure and burden which may be placed on one boss or person responsible
 Some workers are given autonomy to solve tasks by themselves instead of waiting or going for approval
 
-It was popularized by Zappos https://www.zappos.com/about/how-we-work
+It was popularized by [Zappos](https://www.zappos.com/about/how-we-work)
+
+##Placeholder
 
 Reduces hierarchies and bureaucracy increasing the speed in which tasks can be performed
 
-## Constitution from the Holacracy website [Link(https://www.holacracy.org/constitution/5)]
+## [Constitution from the Holacracy website](https://www.holacracy.org/constitution/5)
 
 Article 1: Organizational Structure
 
