@@ -21,7 +21,10 @@ Reduces hierarchies and bureaucracy increasing the speed in which tasks can be p
 
 Holacracy was popularized by [Zappos](https://www.zappos.com/about/how-we-work)
 
-## Images
+## Image Sources
+
+![Logo](Full_Color_Zappos_Logo_01.png)
+Taken from the [Zappos Press Kit](https://www.zappos.com/about/press-kit)
 
 ![Logo](Holacracy_Primary.png)
 
