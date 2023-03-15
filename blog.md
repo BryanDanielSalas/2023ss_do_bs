@@ -23,6 +23,8 @@ Holacracy was popularized by [Zappos](https://www.zappos.com/about/how-we-work)
 
 ## Images
 
+[Logo](Holacracy_Primary.png)
+
 Taken from the [Holacracy Press Kit](https://www.holacracy.org/press-kit)
 
 ## [Constitution from the Holacracy website](https://www.holacracy.org/constitution/5)
