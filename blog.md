@@ -2,7 +2,7 @@
 
 NOTES FOR PRESENTATION
 
-What problem is it solving
+## What problem is it solving?
 
 Inefficiency in firms
 Solves business processes by increasing delegation and responsibilities
@@ -11,9 +11,19 @@ Some workers are given autonomy to solve tasks by themselves instead of waiting 
 
 Reduces hierarchies and bureaucracy increasing the speed in which tasks can be performed
 
+## Why?
+
+## What?
+
+## How?
+
 ## Zappos
 
 Holacracy was popularized by [Zappos](https://www.zappos.com/about/how-we-work)
+
+## Images
+
+Taken from the [Holacracy Press Kit](https://www.holacracy.org/press-kit)
 
 ## [Constitution from the Holacracy website](https://www.holacracy.org/constitution/5)
 
