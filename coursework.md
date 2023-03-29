@@ -21,7 +21,7 @@ Hello
 
 ## What?
 
-Holacrasy
+Holacracy
 
 ---
 
