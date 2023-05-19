@@ -2,7 +2,220 @@
 
 NOTES FOR PRESENTATION
 
+![Logo](Holacracy_Primary.png)
+
 ---
+
+Bryan Salas
+
+Digital Organisation SS2023
+
+Prof. Dr. Ulrich Anders
+
+May 10 2023
+
+---
+
+<span style="color:#ffcc00"> **AGENDA** </span>
+
+1. Definition
+2. Background
+3. Holacracy Constitution
+4. Company Examples
+5. Benefits
+6. Limitations
+
+---
+
+<span style="color:#ffcc00"> **WHAT IS HOLACRACY?** </span>
+
+The concept of self-organization
+
+Provides _autonomy_, _flexibility_ and _agility_ to the management structure of organizations
+
+---
+
+<span style="color:#ffcc00"> **WHAT IS HOLACRACY?** </span>
+
+Self organizing management style
+
+Prominent characteristics include Circles, Roles, Tactical Meetings, Flat Hierarchies
+
+Tool for agile management
+
+Patented by Holacracy One
+
+---
+
+<span style="color:#ffcc00"> **BACKGROUND** </span>
+
+Created by Brian Robertson in 2007
+
+![Book](HolacracyBook.png)
+
+---
+
+<span style="color:#ffcc00"> **PROBLEMS** </span>
+
+![Problems](TO_Limitations.png)
+
+---
+
+<span style="color:#ffcc00"> **HIS SOLUTION?** </span>
+
+![Benefits](HO_benefits.png)
+
+---
+
+<span style="color:#ffcc00"> **HOW IS HOLACRACY IMPLEMENTED?** </span>
+
+Holacracy Constitution v5.0 from 2022
+
+![MainPoints](MainPoints.png)
+
+---
+
+<span style="color:#ffcc00"> **ROLES** </span>
+
+Processes or constructs which can be filled by one or more individuals to achieve a goal or complete a task.
+
+People can fill multiple roles at the same time.
+
+---
+
+<span style="color:#ffcc00"> **ROLE LEADS** </span>
+
+Responsible for fulfilling the roles' functions such as purpose and accountabilities.
+
+Must track progress, break down projects and execute action stages
+
+---
+
+<span style="color:#ffcc00"> **DOMAINS** </span>
+
+Assets which one fulfilling a role can impact or utilize in order to fulfill their role and scope
+
+---
+
+<span style="color:#ffcc00"> **CIRCLES** </span>
+
+Collections of roles and policies with overarching functions in the organization.
+
+Facilitators and secretaries synchronize and manage cohesion.
+
+Can be sub divided into sub-circles.
+
+---
+
+<span style="color:#ffcc00"> **SUPER CIRCLES** </span>
+
+Circles can also be grouped together and be part of larger circles.
+
+Comparable to departments in traditional organizations.
+
+---
+
+<span style="color:#ffcc00"> **TACTICAL MEETINGS** </span>
+
+The agile planning stage of Holacracy.
+
+Cross-departmental communication across circles or within.
+
+Objectives and progress reports are set through these meetings.
+
+---
+
+<span style="color:#ffcc00"> **AUTHORITY DISTRIBUTION** </span>
+
+Autonomy and Delegation are important to Holacracy.
+
+Constraints, Interpretation and Initiative.
+
+Set parameters for policies which individuals must follow.
+
+---
+
+<span style="color:#ffcc00"> **GOVERNANCE** </span>
+
+Led by Circle Representatives.
+
+Used to amend, implement or repel policies and to provide guidance to roles and circles.
+
+Distributes accountability and responsibility.
+
+---
+
+Example provided by Holacracy One
+![SpecificCircle](SpecificCircle.png)
+
+---
+
+Example provided by Holacracy One
+![WholeCircle](WholeCircle.png)
+
+---
+
+<span style="color:#ffcc00"> **COMPANY EXAMPLES** </span>
+
+David Allen Company - Restructuring
+
+Zappos - Creativity
+
+Mercedes-Benz IO - Innovation
+
+---
+
+![DACLogo](DAClogo.png)
+
+Owner, David Allen, relinquished control for survivability of company
+
+Getting things done - Productivity systems
+
+Implemented to resolve internal hierarchical problems
+
+---
+
+![Zappos](Full_Color_Zappos_Logo_01.png)
+
+Former CEO, Tony Hseih wanted to increase creativity
+
+Wanted to be more flexible to demands in e-commerce
+
+Most famous adopter of Holacracy
+
+---
+
+![MBIOLogo](MBIO-logo.png)
+
+Holacratic re-branding in 2021
+
+Self organizing at all levels
+
+Response to COVID-19, Electric Vehicles and Aftersales Services
+
+---
+
+<span style="color:#ffcc00"> **BENEFITS** </span>
+
+Adaptable to market conditions and agile
+
+Provides employees with autonomy
+
+Useful in post covid digital age
+
+Constant evolution
+
+---
+
+<span style="color:#ffcc00"> **LIMITATIONS** </span>
+
+Difficult to apply to high power distant cultures
+
+Disruptive implementation
+
+Management support needed
+
+## Specific conditions must be met
 
 ## What?
 
